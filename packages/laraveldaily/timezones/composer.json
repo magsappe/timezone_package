@@ -1,0 +1,14 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "Its sample package for timezones",
+    "type": "1",
+    "license": "1",
+    "authors": [
+        {
+            "name": "Magdhum Rowther",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+}
